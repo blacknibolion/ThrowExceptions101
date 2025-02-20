@@ -12,3 +12,4 @@ C:\Users\Blacknibolion\Documents\repo\ThrowExceptions101\obj\Debug\net9.0\refint
 C:\Users\Blacknibolion\Documents\repo\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.pdb
 C:\Users\Blacknibolion\Documents\repo\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.genruntimeconfig.cache
 C:\Users\Blacknibolion\Documents\repo\ThrowExceptions101\obj\Debug\net9.0\ref\ThrowExceptions101.dll
+C:\Users\Blacknibolion\Documents\repo\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.sourcelink.json
